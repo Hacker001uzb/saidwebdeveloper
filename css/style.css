@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    align-items: center;   
+    justify-content: space-around;
+    margin: 70px 70px ;
+    background-color: whitesmoke;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+}
+.subtitle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 400px;
+}
+.description{
+    background-color: seashell;
+}
